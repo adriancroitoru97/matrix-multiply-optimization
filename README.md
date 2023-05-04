@@ -86,7 +86,7 @@ led to almost **6 times** lower data misses (and refs at all).
 
 ## Graph Analysis
 
-![](/grafice/performance.png "")
+![](/grafice/analysis_performance.png "")
 
 By far, the `BLAS` implementation performs the best, as it has the lowest
 execution time for each value of N. This is due to the use of highly optimized
